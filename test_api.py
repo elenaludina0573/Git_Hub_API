@@ -9,7 +9,7 @@ USERNAME = os.getenv('GITHUB_USERNAME')
 
 print(USERNAME)
 
-''' ��ункция для получения заголовков с токеном авторизации '''
+''' Функция для получения заголовков с токеном авторизации '''
 
 
 def get_headers(TOKEN):
